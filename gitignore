@@ -1,0 +1,59 @@
+
+# Node modules
+node_modules/
+**/node_modules/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Runtime data
+pids/
+*.pid
+*.seed
+*.pid.lock
+
+# SQLite database
+*.db
+*.sqlite
+*.sqlite3
+
+# Environment variables
+.env
+.env.local
+
+# Build outputs
+dist/
+build/
+.cache/
+out/
+
+# TypeScript
+*.tsbuildinfo
+
+# Vite
+.vite/
+
+# VSCode
+.vscode/
+
+# Mac system files
+.DS_Store
+
+# Coverage
+coverage/
+*.lcov
+
+# React Native/Expo (if accidentally added)
+.expo/
+.expo-shared/
+
+# Others
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
